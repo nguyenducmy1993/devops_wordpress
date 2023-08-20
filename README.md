@@ -1,0 +1,1 @@
+# All WordPress for configuration
