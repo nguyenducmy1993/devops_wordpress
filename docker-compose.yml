@@ -43,3 +43,5 @@ services:
       WORDPRESS_DB_USER: root
       WORDPRESS_DB_PASSWORD: root
       WORDPRESS_DB_NAME: wordpress_db
+volumes:
+  db_data:
